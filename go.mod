@@ -1,4 +1,4 @@
-module go.uber.org/atomic
+module github.com/budisugianto/atomic
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
